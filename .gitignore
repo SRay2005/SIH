@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+evaluation_output/*
+!evaluation_output/evaluation_aggregate.csv
+!evaluation_output/evaluation_summary.csv
